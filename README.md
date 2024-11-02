@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @minikiwiau
-- 👀 I’m interested in coding and chess
+- 👀 I’m interested in coding and graphic design
 - 🌱 I’m currently learning GDscript and python
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: i'm a kiwi that's mini in Australia
